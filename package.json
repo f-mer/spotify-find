@@ -1,0 +1,20 @@
+{
+  "name": "spotify-search",
+  "version": "1.0.0",
+  "description": "Get Spotify catalog information about artists, albums, tracks or playlists.",
+  "main": "index.js",
+  "repository": "f-mer/spotify-search",
+  "keywords": [
+    "spotify",
+    "search",
+    "tracks",
+    "api",
+    "http",
+    "api"
+  ],
+  "author": "Fabian Mersch",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^6.5.0"
+  }
+}
