@@ -23,7 +23,8 @@ $ npm install spotify-find
 [0]: https://img.shields.io/badge/stability-experimental-orange.svg?style=flat-square
 [1]: https://nodejs.org/api/documentation.html#documentation_stability_index
 [2]: https://img.shields.io/npm/v/spotify-find.svg?style=flat-square
-[3]: http://img.shields.io/npm/dm/spotify-find.svg?style=flat-square
-[4]: https://npmjs.org/package/spotify-find
-[5]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
-[6]: https://github.com/feross/standard
+[3]: https://npmjs.org/package/spotify-find
+[4]: http://img.shields.io/npm/dm/spotify-find.svg?style=flat-square
+[5]: https://npmjs.org/package/spotify-find
+[6]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
+[7]: https://github.com/feross/standard
