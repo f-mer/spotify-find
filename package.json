@@ -1,6 +1,6 @@
 {
   "name": "spotify-find",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get Spotify catalog information about artists, albums, tracks or playlists.",
   "main": "index.js",
   "repository": "f-mer/spotify-find",
