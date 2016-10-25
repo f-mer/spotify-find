@@ -17,6 +17,9 @@ find({q: 'Never Gonna Give You Up', type: 'track'}).then(function(res) {
 $ npm install spotify-find
 ```
 
+## See Also
+- [spotify-local-control](https://github.com/f-mer/spotify-local-control) - control a local spotify client
+
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
 
